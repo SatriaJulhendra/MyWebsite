@@ -84,13 +84,13 @@ export const projects = [
         id:4,
         name: "Skill Test Internship Detikcom",
         img : Project4,
-        link : "/update",
+        link : "update",
     },
     {
         id:5,
         name: "Test Frontend Developer CTARSA Foundation",
         img : Project5,
-        link : "/update",
+        link : "update",
     },
     {
         id:6,
