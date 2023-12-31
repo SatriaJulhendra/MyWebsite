@@ -96,7 +96,7 @@ export const projects = [
         id:6,
         name: "Website E-Learning ",
         img : Project6,
-        link : "satria-j-e-learning.vercel.app",
+        link : "https://satria-j-e-learning.vercel.app/",
     },
 ];
 

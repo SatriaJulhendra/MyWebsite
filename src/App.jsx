@@ -7,7 +7,7 @@ import HomePage from "./Pages/HomePage"
 import ProjectPage from "./Pages/ProjectPage"
 import Sertifikat from "./Pages/Sertifikat"
 import Blogpage from "./Pages/Blogpage"
-import UpdateComponent from "./Components/UpdateComponent"
+import UpdatePage from "./Pages/UpdatePage"
 
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
         <Route path="/project" element={<ProjectPage/>}/>
         <Route path="/sertifikat" element={<Sertifikat/>}/>
         <Route path="/blog" element={<Blogpage/>}/>
-        <Route path="/update" element={<UpdateComponent/>}/>
+        <Route path="/update" element={<UpdatePage/>}/>
       </Routes>
       <FooterComponent/>
     </div>
