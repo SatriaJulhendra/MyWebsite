@@ -56,7 +56,7 @@ export const navLinks = [
     },
     {
         id: 5,
-        path:"https://drive.google.com/uc?export=download&id=1at7y4Ll5-ISs0H3Yq1lMjVwKynUjTkWs",
+        path:"https://drive.google.com/file/d/1372G2G0q-4bMWnYo57FalLkNL72nQ396/view?usp=sharing",
         text:"CV"
     }
 ];
@@ -78,7 +78,7 @@ export const projects = [
         id:3,
         name: "Website Adminimistrasi UPT Puskesmas Sapta Taruna",
         img : Project3,
-        link : "https://tugas-akhir-kp.web.app/",
+        link : "admin-puskesmas-4pgqp830q-satria-julhendras-projects.vercel.app",
     },
     {
         id:4,
