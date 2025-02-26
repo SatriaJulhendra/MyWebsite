@@ -66,13 +66,13 @@ export const projects = [
         id:1,
         name: "Redesain Website Teknik Informatika Universitas Riau",
         img : Project1,
-        link : "https://www.redesainwebtiunribysacu.site/",
+        link : "https://satriajulhendra.github.io/",
     },
     {
         id:2,
         name: "Website Profile Desa Gunung Sahilan, Kec. Gunung Sahilan",
         img : Project2,
-        link : "https://desagunungsahilan.site/",
+        link : "https://desa-gunung-sahilan.web.app/",
     },
     {
         id:3,

@@ -1,7 +1,5 @@
-import React from 'react'
 import { Container, Row, Col} from 'react-bootstrap'
 import {projects, sertifikat, skills} from '../data/index'
-import{useNavigate} from 'react-router-dom'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import HeroImage from "../assets/Foto/hero.png"
 
