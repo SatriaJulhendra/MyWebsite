@@ -76,7 +76,7 @@ export const projects = [
         id:3,
         name: "Website Adminimistrasi UPT Puskesmas Sapta Taruna",
         img : Project3,
-        link : "admin-puskesmas.vercel.app",
+        link : "https://admin-puskesmas.vercel.app",
     },
     {
         id:4,
